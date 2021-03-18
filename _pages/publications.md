@@ -19,13 +19,13 @@ Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, and Yongfeng Zhang. arXiv pre
 
 ## 2021
 **User-oriented Fairness in Recommendation**      
-**Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (WWW)*, 2021.
+**Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.
 
 **Neural Collaborative Reasoning**       
-Hanxiong Chen, Shaoyun Shi, **Yunqi Li**, Yongfeng Zhang. In *Proceedings of the Web Conference (WWW)*, 2021.
+Hanxiong Chen, Shaoyun Shi, **Yunqi Li**, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.
 
 **Towards Long-term Fairness in Recommendation**       
-Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao, Changhua Pei et al. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM)*, 2021.      
+Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao, Changhua Pei et al. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2021.      
 [paper](https://arxiv.org/pdf/2101.03584.pdf)
 
 
