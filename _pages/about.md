@@ -12,13 +12,15 @@ I am a Ph.D. student in Computer Science Department at Rutgers University, super
 - Causal Inference in Machine Learning.
 - Information Retrieval applications such as recommender systems.      
       
-    
+       
+       
 Education
 ======
 - Ph.D. in Computer Science, Rutgers University, USA, 2018-Present
 - B.S. in Statistics, University of Science and Technology of China, China, 2014-2018      
 
-
+        
+        
 Publication
 ======
 - **Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. "User-oriented Fairness in Recommendation." In *Proceedings of the WebConference (WWW)*, 2021.
