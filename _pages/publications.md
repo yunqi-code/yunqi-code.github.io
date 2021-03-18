@@ -7,17 +7,15 @@ author_profile: true
 
 # Preprints  
   
-
-
+  
+  
 **Causal Collaborative Filtering**    
 Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. arXiv preprint arXiv:2102.01868 (2021)
 
 **Learning Post-Hoc Causal Explanations for Recommendation    
 Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, and Yongfeng Zhang. arXiv preprint arXiv:2006.16977 (2020).
 
-
 # 2021
-
 **User-oriented Fairness in Recommendation    
 **Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (WWW)*, 2021.
 
