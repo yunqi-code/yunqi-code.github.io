@@ -19,6 +19,12 @@ Education
 - B.S. in Statistics, University of Science and Technology of China, China, 2014-2018      
 <br/>  
 
+Academic Service
+======
+Reviewer of:
+ACM Transactions on Information Systems (TOIS), KDD     
+<br/>  
+
 <!---
 Publication
 ======
