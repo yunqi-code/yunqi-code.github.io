@@ -18,7 +18,8 @@ Education
 - Ph.D. in Computer Science, Rutgers University, USA, 2018-Present
 - B.S. in Statistics, University of Science and Technology of China, China, 2014-2018      
 <br/>  
-        
+
+<!---
 Publication
 ======
 - **Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. "User-oriented Fairness in Recommendation." In *Proceedings of the WebConference (WWW)*, 2021.
@@ -26,6 +27,7 @@ Publication
 - Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao et al. "Towards Long-term Fairness in Recommendation." In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (WSDM)*, 2021.
 - **Yunqi Li**, Shuyuan Xu, Bo Liu, Zuohui Fu, Shuchang Liu, Xu Chen, Yongfeng Zhang. "Discrete Knowledge Graph Embedding Based on Discrete Optimization." In *Proceedings of the AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services.*        
 <br/>
+--->
 
 Teaching
 ======
