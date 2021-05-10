@@ -18,6 +18,10 @@ Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, and Yongfeng Zhang. arXiv pre
 [paper](https://arxiv.org/pdf/2006.16977.pdf)
 
 ## 2021
+**Towards Personalized Fairness based on Causal Notion**      
+**Yunqi Li**, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the 44th International ACM SIGIR Conference
+on Research and Development in Information Retrieval (**SIGIR**)*, 2021.
+
 **User-oriented Fairness in Recommendation**      
 **Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.
 
