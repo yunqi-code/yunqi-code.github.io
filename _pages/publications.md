@@ -29,7 +29,7 @@ Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao,
 [paper](https://arxiv.org/pdf/2101.03584.pdf)
 
 **Learning Post-Hoc Causal Explanations for Recommendation**       
-Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, Xu Chen and Yongfeng Zhang. In *Proceedings of the 1st International Workshops on Causality in Search and Recommendation at SIGIR*, 2021.     
+Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, Xu Chen and Yongfeng Zhang. In *Proceedings of the 1st International Workshops on Causality in Search and Recommendation (CSR) at SIGIR-21*, 2021.     
 [paper](https://arxiv.org/pdf/2006.16977.pdf)
 
 
