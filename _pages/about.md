@@ -27,8 +27,7 @@ ACM Transactions on Information Systems (TOIS), KDD, CIKM
 
 Tutorial
 ======
-- Tutorial on Fairness of Machine Learning in Recommender Systems [[link]](https://fairness-tutorial.github.io/)
-ACM Transactions on Information Systems (TOIS), KDD, CIKM     
+- Tutorial on Fairness of Machine Learning in Recommender Systems [[link]](https://fairness-tutorial.github.io/)     
 <br/>  
 
 <!---
