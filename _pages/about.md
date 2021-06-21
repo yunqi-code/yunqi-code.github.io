@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 I am a Ph.D. candidate in Computer Science Department at Rutgers University, supervised by [Prof. Yongfeng Zhang](http://yongfeng.me). My current research interests include
-- AI Ethics including Fairness and Explainable Machine Learning
+- AI Ethics including Fair, Explainable and Stable Machine Learning.
 - Causal Inference in Machine Learning.
-- Information Retrieval applications such as recommender systems.      
+- Information Retrieval Applications such as Recommender Systems.      
 <br/>
        
 Education
