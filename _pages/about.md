@@ -43,7 +43,7 @@ Publication
 Teaching
 ======
 1. Graduate Teaching Assistant
-    - CS527: Database System for Data Science, Fall 2019
+    - CS527: Database System for Data Science, Fall 2019.
     - CS550: Massive Data Mining, 2019 Spring.
     - CS672: Computational Economics for Data Analytics, 2018 Fall.
     - CS539: Database Management Systems, 2018 Fall.
