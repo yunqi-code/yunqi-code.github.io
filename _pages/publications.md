@@ -13,10 +13,6 @@ author_profile: true
 Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. arXiv preprint arXiv:2102.01868 (2021)      
 [paper](https://arxiv.org/pdf/2102.01868.pdf)
 
-**Learning Post-Hoc Causal Explanations for Recommendation**       
-Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, and Yongfeng Zhang. arXiv preprint arXiv:2006.16977 (2020).     
-[paper](https://arxiv.org/pdf/2006.16977.pdf)
-
 ## 2021
 **Towards Personalized Fairness based on Causal Notion**      
 **Yunqi Li**, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the 44th International ACM SIGIR Conference
@@ -31,6 +27,10 @@ Hanxiong Chen, Shaoyun Shi, **Yunqi Li**, Yongfeng Zhang. In *Proceedings of the
 **Towards Long-term Fairness in Recommendation**       
 Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao, Changhua Pei et al. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2021.      
 [paper](https://arxiv.org/pdf/2101.03584.pdf)
+
+**Learning Post-Hoc Causal Explanations for Recommendation**       
+Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, Xu Chen and Yongfeng Zhang. In *Proceedings of the 1st International Workshops on Causality in Search and Recommendation at SIGIR*, 2021.     
+[paper](https://arxiv.org/pdf/2006.16977.pdf)
 
 
 ## 2020
