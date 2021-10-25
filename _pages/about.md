@@ -22,11 +22,13 @@ Education
 Academic Service
 ======
 Reviewer of:
-ACM Transactions on Information Systems (TOIS), KDD, CIKM     
+ACM Transactions on Information Systems (TOIS), KDD, CIKM, INFORMS     
 <br/>  
 
 Tutorial
 ======
+- Tutorial on Fairness of Machine Learning in Recommender Systems, CIKM 2021.      
+<br/>  
 - Tutorial on Fairness of Machine Learning in Recommender Systems, SIGIR 2021. [[link]](https://fairness-tutorial.github.io/)     
 <br/>  
 
