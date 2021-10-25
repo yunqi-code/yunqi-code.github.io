@@ -28,7 +28,7 @@ ACM Transactions on Information Systems (TOIS), KDD, CIKM, INFORMS
 Tutorial
 ======
 - Tutorial on Fairness of Machine Learning in Recommender Systems, SIGIR 2021. [[link]](https://fairness-tutorial.github.io/)     
-<br/>  
+
 - Tutorial on Fairness of Machine Learning in Recommender Systems, CIKM 2021.      
 <br/>  
 
