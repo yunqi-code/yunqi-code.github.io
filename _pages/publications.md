@@ -5,13 +5,19 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints  
+## Preprints      
+ 
+**Counterfactual Evaluation for Explainable AI**      
+Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, **Yunqi Li**, Juntao Tan, Fei Sun, Yongfeng Zhang.      
+[paper](https://arxiv.org/abs/2109.01962)
   
-  
-  
-**Causal Collaborative Filtering**    
-Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. arXiv preprint arXiv:2102.01868 (2021)      
+**Causal Collaborative Filtering**      
+Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. arXiv preprint arXiv:2102.01868 (2021)       
 [paper](https://arxiv.org/pdf/2102.01868.pdf)
+
+## 2022     
+**Graph Logic Reasoning for Recommendation and Link Prediction**       
+**Hanxiong Chen**, Yunqi Li, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.       
 
 ## 2021
 **Towards Personalized Fairness based on Causal Notion**      
@@ -25,6 +31,9 @@ on Research and Development in Information Retrieval (**SIGIR**)*, 2021.
 **Neural Collaborative Reasoning**       
 Hanxiong Chen, Shaoyun Shi, **Yunqi Li**, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
 [paper](https://arxiv.org/pdf/2005.08129.pdf)
+
+**CountER: Counterfactual Explainable Recommendation**        
+Juntao Tan, Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Xu Chen and Yongfeng Zhang. In *Proceedings of the 30th ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2021.        
 
 **Towards Long-term Fairness in Recommendation**       
 Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao, Changhua Pei et al. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2021.      
