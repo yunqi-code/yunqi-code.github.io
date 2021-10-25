@@ -17,7 +17,7 @@ Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. 
 
 ## 2022     
 **Graph Logic Reasoning for Recommendation and Link Prediction**       
-**Hanxiong Chen**, Yunqi Li, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.       
+Hanxiong Chen, **Yunqi Li**, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.       
 
 ## 2021
 **Towards Personalized Fairness based on Causal Notion**      
