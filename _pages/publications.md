@@ -16,8 +16,14 @@ Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. 
 [paper](https://arxiv.org/pdf/2102.01868.pdf)
 
 ## 2022     
-**Graph Logic Reasoning for Recommendation and Link Prediction**       
-Hanxiong Chen, **Yunqi Li**, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.       
+**Graph Collaborative Reasoning**       
+Hanxiong Chen, **Yunqi Li**, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.
+
+**Looking Further into the Future: Career Pathway Prediction**       
+Michiharu Yamashita, **Yunqi Li**, Thanh Tran, Yongfeng Zhang, Dongwon Lee. In *the First International Workshop on Computational Jobs Marketplace at  (**WSDM**)*, 2022.
+
+**Learning and Evaluating Explanations for Graph Neural Networks based on Counterfactual and Factual Reasoning**       
+Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, **Yunqi Li**, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2022.       
 
 ## 2021
 **Towards Personalized Fairness based on Causal Notion**      
