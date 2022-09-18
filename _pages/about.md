@@ -21,8 +21,8 @@ Education
 
 Academic Service
 ======
-Reviewer of:
-ACM Transactions on Information Systems (TOIS), KDD'21, CIKM'21, INFORMS'21, WWW'22     
+PC Member/Reviewer of:
+ACM Transactions on Information Systems (TOIS), KDD'21, CIKM'21, INFORMS'21, WWW'22, SIGIR'22, ICLR'22 Workshop on PAIR^2Struct     
 <br/>  
 
 Tutorial
