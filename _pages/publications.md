@@ -24,25 +24,31 @@ Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. 
 [paper](https://arxiv.org/pdf/2102.01868.pdf)
 
 ## 2022     
-**Causal Factorization Machine for Robust Recommendation**       
-**Yunqi Li**, Hanxiong Chen, Juntao Tan, Yongfeng Zhang. In *The ACM/IEEE Joint Conference on Digital Libraries (**JCDL**)*, 2022.
-
 **Learn Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS)**       
-Hanxiong Chen, **Yunqi Li**, He Zhu, Yongfeng Zhang. In *Proceedings of the 31st ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022.
+Hanxiong Chen, **Yunqi Li**, He Zhu, Yongfeng Zhang. In *Proceedings of the 31st ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022.       
+[paper](https://arxiv.org/pdf/2208.11083.pdf)
+
+**Causal Factorization Machine for Robust Recommendation**       
+**Yunqi Li**, Hanxiong Chen, Juntao Tan, Yongfeng Zhang. In *The ACM/IEEE Joint Conference on Digital Libraries (**JCDL**)*, 2022.      
+[paper](https://dl.acm.org/doi/pdf/10.1145/3529372.3530921)
 
 **Graph Collaborative Reasoning**       
-Hanxiong Chen, **Yunqi Li**, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.
+Hanxiong Chen, **Yunqi Li**, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.      
+[paper](https://dl.acm.org/doi/pdf/10.1145/3488560.3498410)
 
 **Looking Further into the Future: Career Pathway Prediction**       
-Michiharu Yamashita, **Yunqi Li**, Thanh Tran, Yongfeng Zhang, Dongwon Lee. In *the First International Workshop on Computational Jobs Marketplace at  (**WSDM**)*, 2022.
+Michiharu Yamashita, **Yunqi Li**, Thanh Tran, Yongfeng Zhang, Dongwon Lee. In *the First International Workshop on Computational Jobs Marketplace at  (**WSDM**)*, 2022.      
+[paper](https://pike.psu.edu/publications/wsdmw22.pdf)
 
 **Learning and Evaluating Explanations for Graph Neural Networks based on Counterfactual and Factual Reasoning**       
 Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, **Yunqi Li**, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2022.       
+[paper](https://arxiv.org/pdf/2202.08816.pdf)
 
 ## 2021
 **Towards Personalized Fairness based on Causal Notion**      
 **Yunqi Li**, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the 44th International ACM SIGIR Conference
-on Research and Development in Information Retrieval (**SIGIR**)*, 2021.
+on Research and Development in Information Retrieval (**SIGIR**)*, 2021.      
+[paper](https://dl.acm.org/doi/10.1145/3404835.3462966)
 
 **User-oriented Fairness in Recommendation**      
 **Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
@@ -52,8 +58,9 @@ on Research and Development in Information Retrieval (**SIGIR**)*, 2021.
 Hanxiong Chen, Shaoyun Shi, **Yunqi Li**, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
 [paper](https://arxiv.org/pdf/2005.08129.pdf)
 
-**CountER: Counterfactual Explainable Recommendation**        
+**Counterfactual Explainable Recommendation**        
 Juntao Tan, Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Xu Chen and Yongfeng Zhang. In *Proceedings of the 30th ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2021.        
+[paper](https://dl.acm.org/doi/pdf/10.1145/3459637.3482420)
 
 **Towards Long-term Fairness in Recommendation**       
 Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao, Changhua Pei et al. In *Proceedings of the 14th ACM International Conference on Web Search and Data Mining (**WSDM**)*, 2021.      
