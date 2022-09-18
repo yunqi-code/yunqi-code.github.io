@@ -21,8 +21,8 @@ Education
 
 Work Experience
 ======
-- Meta, Research Intern(AI), May 2022 - Sept. 2022.
-- eBay, Research Intern(AWF), July 2021 - Feb. 2022.      
+- Meta, Research Intern (AI), May 2022 - Sept. 2022.
+- eBay, Research Intern (AWF), July 2021 - Feb. 2022.      
 <br/>  
 
 Academic Service
