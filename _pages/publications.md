@@ -7,6 +7,14 @@ author_profile: true
 
 ## Preprints      
  
+**A Survey on Trustworthy Recommender Systems**      
+Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, **Yunqi Li**, Yikun Xian, Yongfeng Zhang.       
+[paper](https://arxiv.org/abs/2207.12515)
+
+**Fairness in Recommendation: A Survey**      
+**Yunqi Li**, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yongfeng Zhang.      
+[paper](https://arxiv.org/pdf/2205.13619.pdf)
+ 
 **Counterfactual Evaluation for Explainable AI**      
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, **Yunqi Li**, Juntao Tan, Fei Sun, Yongfeng Zhang.      
 [paper](https://arxiv.org/abs/2109.01962)
@@ -16,6 +24,12 @@ Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. 
 [paper](https://arxiv.org/pdf/2102.01868.pdf)
 
 ## 2022     
+**Causal Factorization Machine for Robust Recommendation**       
+**Yunqi Li**, Hanxiong Chen, Juntao Tan, Yongfeng Zhang. In *The ACM/IEEE Joint Conference on Digital Libraries (**JCDL**)*, 2022.
+
+**Learn Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS)**       
+Hanxiong Chen, **Yunqi Li**, He Zhu, Yongfeng Zhang. In *Proceedings of the 31st ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022.
+
 **Graph Collaborative Reasoning**       
 Hanxiong Chen, **Yunqi Li**, Shaoyun Shi, Shuchang Liu, He Zhu, Yongfeng Zhang. In *Proceedings of the 15th ACM International Conference on Web Search and Data Mining in  (**WSDM**)*, 2022.
 
