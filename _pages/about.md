@@ -19,6 +19,12 @@ Education
 - B.S. in Statistics, University of Science and Technology of China, China, 2014-2018      
 <br/>  
 
+Work Experience
+======
+- Meta, Research Intern(AI), May 2022 - Sept. 2022.
+- eBay, Research Intern(AWF), July 2021 - Feb. 2022.      
+<br/>  
+
 Academic Service
 ======
 PC Member/Reviewer of:
