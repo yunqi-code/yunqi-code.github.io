@@ -7,16 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in Computer Science Department at Rutgers University, supervised by [Prof. Yongfeng Zhang](http://yongfeng.me). My current research interests include
-- AI Ethics including Fair, Explainable and Stable Machine Learning.
+I am a Ph.D. candidate in Computer Science Department at Rutgers University, supervised by [Prof. Yongfeng Zhang](http://yongfeng.me). My current research interests include:
+- AI for social good including Fair, Explainable and Stable Machine Learning.
 - Causal Inference in Machine Learning.
 - Information Retrieval Applications such as Recommender Systems.      
 <br/>
        
 Education
 ======
-- Ph.D. in Computer Science, Rutgers University, USA, 2018-Present
-- B.S. in Statistics, University of Science and Technology of China, China, 2014-2018      
+- Ph.D. in Computer Science, Rutgers University, USA, 2018 - 2023 (Expected)
+- B.S. in Statistics, University of Science and Technology of China, China, 2014 - 2018      
 <br/>  
 
 Work Experience
@@ -28,7 +28,7 @@ Work Experience
 Academic Service
 ======
 PC Member/Reviewer of:
-ACM Transactions on Information Systems (TOIS), KDD'21, CIKM'21, INFORMS'21, WWW'22, SIGIR'22, ICLR'22 Workshop on PAIR^2Struct     
+ACM Transactions on Information Systems (TOIS), ACM Transactions on Recommender Systems (TORS), KDD'21, CIKM'21, INFORMS'21, WWW'22, SIGIR'22, ICLR'22 Workshop on PAIR^2Struct     
 <br/>  
 
 Tutorial
