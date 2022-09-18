@@ -9,7 +9,7 @@ author_profile: true
  
 **A Survey on Trustworthy Recommender Systems**      
 Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, **Yunqi Li**, Yikun Xian, Yongfeng Zhang.       
-[paper](https://arxiv.org/abs/2207.12515)
+[paper](https://arxiv.org/pdf/2207.12515.pdf)
 
 **Fairness in Recommendation: A Survey**      
 **Yunqi Li**, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Juntao Tan, Shuchang Liu, Yongfeng Zhang.      
@@ -48,7 +48,7 @@ Juntao Tan, Shijie Geng, Zuohui Fu, Yingqiang Ge, Shuyuan Xu, **Yunqi Li**, Yong
 **Towards Personalized Fairness based on Causal Notion**      
 **Yunqi Li**, Hanxiong Chen, Shuyuan Xu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the 44th International ACM SIGIR Conference
 on Research and Development in Information Retrieval (**SIGIR**)*, 2021.      
-[paper](https://dl.acm.org/doi/10.1145/3404835.3462966)
+[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462966)
 
 **User-oriented Fairness in Recommendation**      
 **Yunqi Li**, Hanxiong Chen, Zuohui Fu, Yingqiang Ge, Yongfeng Zhang. In *Proceedings of the Web Conference (**WWW**)*, 2021.      
