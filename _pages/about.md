@@ -28,7 +28,7 @@ Work Experience
 Academic Service
 ======
 PC Member/Reviewer of:
-ACM Transactions on Information Systems (TOIS), ACM Transactions on Recommender Systems (TORS), KDD'21, CIKM'21, INFORMS'21, WWW'22, SIGIR'22, ICLR'22 Workshop on PAIR^2Struct     
+ACM Transactions on Information Systems (TOIS), ACM Transactions on Recommender Systems (TORS), KDD'21, CIKM'21, INFORMS'21, WWW'22, SIGIR'22, ICLR'22, AAAI'23     
 <br/>  
 
 Tutorial
