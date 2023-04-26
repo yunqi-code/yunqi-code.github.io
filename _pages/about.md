@@ -11,7 +11,7 @@ I am a Ph.D. candidate in Computer Science Department at Rutgers University, sup
 - Information Retrieval Applications such as Recommender Systems.
 - Responsible and Trustworthy AI including Fairness and Bias, Explainability, Transparency and Robustness in Machine Learning.
 - Causal Inference in Machine Learning.
-- Large Language Models (LLM)      
+- Large Language Models (LLM).      
 <br/>
        
 Education
