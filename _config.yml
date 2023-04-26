@@ -86,7 +86,7 @@ author:
   location         : "Piscataway, NJ, 08854, USA"
   employer         :
   pubmed           : 
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
+  googlescholar    :  "https://scholar.google.com/citations?user=-1-_jwQAAAAJ&hl=zh-CN" # "http://yourfullgooglescholarurl.com"
   email            :  "yunqi.li@rutgers.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
