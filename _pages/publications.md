@@ -70,7 +70,7 @@ Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao,
 
 ## Workshop      
 **Fairness in Job Recommendation under Quantity Constraints**      
-**Yunqi Li**, Michiharu Yamashita, Hanxiong Chen, Dongwon Lee, Yongfeng Zhang. In *Proceedings of the AAAI-23 Workshop on AI for Web Advertising.*     
+**Yunqi Li**, Michiharu Yamashita, Hanxiong Chen, Dongwon Lee, Yongfeng Zhang. In *Proceedings of the AAAI-23 Workshop on AI for Web Advertising.*, 2023.     
 [paper](https://pike.psu.edu/publications/aaai23-fair.pdf)
 
 **Looking Further into the Future: Career Pathway Prediction**       
