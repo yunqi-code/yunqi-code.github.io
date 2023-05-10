@@ -70,7 +70,7 @@ Yingqiang Ge, Shuchang Liu, Ruoyuan Gao, Yikun Xian, **Yunqi Li**, Xiangyu Zhao,
 
 ## Workshop      
 **Fairness in Job Recommendation under Quantity Constraints**      
-**Yunqi Li**, Michiharu Yamashita, Hanxiong Chen, Dongwon Lee, Yongfeng Zhang. In *Proceedings of the AAAI-23 Workshop on AI for Web Advertising*, 2023.     
+**Yunqi Li**, Michiharu Yamashita, Hanxiong Chen, Dongwon Lee, Yongfeng Zhang. In *the AAAI-23 Workshop on AI for Web Advertising*, 2023.     
 [paper](https://pike.psu.edu/publications/aaai23-fair.pdf)
 
 **Looking Further into the Future: Career Pathway Prediction**       
@@ -78,11 +78,11 @@ Michiharu Yamashita, **Yunqi Li**, Thanh Tran, Yongfeng Zhang, Dongwon Lee. In *
 [paper](https://pike.psu.edu/publications/wsdmw22.pdf)
 
 **Learning Post-Hoc Causal Explanations for Recommendation**       
-Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, Xu Chen and Yongfeng Zhang. In *Proceedings of the 1st International Workshops on Causality in Search and Recommendation (CSR) at SIGIR-21*, 2021.     
+Shuyuan Xu, **Yunqi Li**, Shuchang Liu, Zuohui Fu, Xu Chen and Yongfeng Zhang. In *the 1st International Workshops on Causality in Search and Recommendation (CSR) at SIGIR-21*, 2021.     
 [paper](https://arxiv.org/pdf/2006.16977.pdf)
 
 **Discrete Knowledge Graph Embedding Based on Discrete Optimization**      
-**Yunqi Li**, Shuyuan Xu, Bo Liu, Zuohui Fu, Shuchang Liu, Xu Chen, and Yongfeng Zhang. In *Proceedings of the AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services*, 2020.     
+**Yunqi Li**, Shuyuan Xu, Bo Liu, Zuohui Fu, Shuchang Liu, Xu Chen, and Yongfeng Zhang. In *the AAAI-20 Workshop on Knowledge Discovery from Unstructured Data in Financial Services*, 2020.     
 [paper](https://aaai-kdf2020.github.io/assets/pdfs/kdf2020_paper_20.pdf)
 
 
