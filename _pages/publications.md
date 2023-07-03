@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 ## Preprints      
+**Fairness of ChatGPT**      
+**Yunqi Li**, Yongfeng Zhang.      
+[paper](https://arxiv.org/pdf/2305.18569.pdf)
+
 **Transferable Fairness for Cold-Start Recommendation**      
 **Yunqi Li**, Dingxian Wang, Hanxiong Chen, Yongfeng Zhang.      
 [paper](https://arxiv.org/pdf/2301.10665.pdf)
@@ -25,12 +29,13 @@ Yingqiang Ge, Shuchang Liu, Zuohui Fu, Juntao Tan, Zelong Li, Shuyuan Xu, **Yunq
 **Counterfactual Evaluation for Explainable AI**      
 Yingqiang Ge, Shuchang Liu, Zelong Li, Shuyuan Xu, Shijie Geng, **Yunqi Li**, Juntao Tan, Fei Sun, Yongfeng Zhang.      
 [paper](https://arxiv.org/abs/2109.01962)
-  
-**Causal Collaborative Filtering**      
-Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. arXiv preprint arXiv:2102.01868 (2021)       
-[paper](https://arxiv.org/pdf/2102.01868.pdf)
+
 
 ## Conference    
+**Causal Collaborative Filtering**      
+Shuyuan Xu, Yingqiang Ge, **Yunqi Li**, Zuohui Fu, Xu Chen, and Yongfeng Zhang. In *Proceedings of The 9th ACM SIGIR / The 13th International Conference on the Theory of Information Retrieval (**ICTIR**)*, 2023.       
+[paper](https://arxiv.org/pdf/2102.01868.pdf)
+
 **Learn Basic Skills and Reuse: Modularized Adaptive Neural Architecture Search (MANAS)**       
 Hanxiong Chen, **Yunqi Li**, He Zhu, Yongfeng Zhang. In *Proceedings of the 31st ACM International Conference on Information and Knowledge Management (**CIKM**)*, 2022.       
 [paper](https://arxiv.org/pdf/2208.11083.pdf)
